@@ -11,7 +11,6 @@ sudo docker build -t meero-image .
 Check if the docker image has been created properly. The image name meero-image should be displayed.
 ```
 sudo docker images
-
 ```
 
 ### Run the Docker Image
